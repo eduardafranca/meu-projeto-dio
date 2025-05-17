@@ -12,5 +12,6 @@ public class MeuProjetoDio {
 
     public static void main(String[] args) {
         System.out.println("Olá, consegui colocar o projeto no meu primeiro repositorio");
+        System.out.println("kkkkkk");
     }
 }
